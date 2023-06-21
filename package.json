@@ -1,0 +1,25 @@
+{
+  "name": "memorylaneapi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "devStart": "nodemon app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.22",
+    "swagger-ui": "^4.18.3",
+    "swagger-ui-express": "^4.6.3"
+  },
+  "devDependencies": {
+    "openapi-types": "^12.1.0",
+    "swagger-jsdoc": "^6.2.8"
+  }
+}
