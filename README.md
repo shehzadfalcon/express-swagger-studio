@@ -39,3 +39,23 @@ npm start
 yarn start
 ```
 Open your browser and navigate to http://localhost:3000.
+
+
+## Contributing
+We welcome contributions from anyone passionate about AI ethics, neuroethics, and web development! Here's how you can contribute:
+
+Fork the repository and create your branch: git checkout -b my-feature-branch
+Commit your changes: git commit -m 'Add some feature'
+Push to the branch: git push origin my-feature-branch
+Open a pull request to the main branch for review
+Please review our Code of Conduct before contributing to ensure a positive and constructive environment for all contributors.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+If you have any questions, suggestions, or feedback, feel free to reach out to us:
+
+Project Maintainer: Shehzad Ahmed
+Email: shehzadfalcon@gmail.com
