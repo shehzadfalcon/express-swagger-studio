@@ -1,8 +1,39 @@
-# MemoryLaneAPI
+# Project Name
 
-Run 'npm run devStart' for nodemon start (auto restarts server on save)
+## Description
+A simple Express application that integrates Swagger for API documentation and Jade (now known as Pug) for templating. This project aims to provide a robust API interface while rendering views efficiently.
 
-# API Documentation + Testing
+## Features
+- Express framework for building web applications and APIs
+- Swagger for API documentation
+- Jade (Pug) for templating and rendering views
+- Easy setup and customization
 
-1. Change ENV_NODE in .env to "development", then go to localhost:4000/api-docs
-2. Once done change it back to production! (if not it is publicly accessible on the production server)
+## Technologies Used
+- **Node.js**: JavaScript runtime
+- **Express**: Web application framework for Node.js
+- **Swagger**: API documentation tool
+- **Jade (Pug)**: Template engine for rendering HTML
+
+## Installation
+
+Clone the repository:
+   ```bash
+   git clone https://github.com/shehzadfalcon/express-swagger-studio.git
+   cd express-swagger-studio
+  ```
+```bash
+# Using npm
+npm install
+
+# Or using Yarn
+yarn install
+```
+```bash
+# Using npm
+npm start
+
+# Or using Yarn
+yarn start
+```
+Open your browser and navigate to http://localhost:3000.
