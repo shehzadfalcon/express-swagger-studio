@@ -1,4 +1,6 @@
 # Project Name
+Express Swagger Studio
+
 
 ## Description
 A simple Express application that integrates Swagger for API documentation and Jade (now known as Pug) for templating. This project aims to provide a robust API interface while rendering views efficiently.
